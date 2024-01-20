@@ -19,6 +19,12 @@ The software part involves coding in the Arduino IDE, utilizing libraries like T
   - TinyGPS++
   - ArduinoJSON
 
+1.Install required libraries:
+   -> Tiny Gps++
+   -> ArduinoJSON
+2. Connect the hardware components according to the  documentation.
+3. Upload the Arduino code to the Arduino Uno.
+
 ## Installation
 
  Clone the repository:
@@ -26,15 +32,6 @@ The software part involves coding in the Arduino IDE, utilizing libraries like T
    ```bash
    git clone https://github.com/ganesh81471/GPS-Vehicle-Tracking-System.git
    cd GPS-Vechicle_Tracking_System
-
-1.Install required libraries:
-   -> Tiny Gps++
-   -> ArduinoJSON
-2. Connect the hardware components according to the  documentation.
-3. Upload the Arduino code to the Arduino Uno.
-
-## Credits
-This project was developed as part of an internship at ROBOROX . Special thanks to ROBOROSX for providing the opportunity and support.
 
 
 
